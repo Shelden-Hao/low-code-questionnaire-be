@@ -1,6 +1,6 @@
 /**
  * @description 生成组件列表
- * @author 双越老师
+ * @author Heo Hao
  */
 
 const Mock = require('mockjs')
